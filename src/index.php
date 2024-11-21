@@ -7,7 +7,7 @@
 </head>
 <body>
   <h1 class="text-3xl font-bold">
-    binago q ule
+    binago q nanaman
   </h1>
 </body>
 </html>
